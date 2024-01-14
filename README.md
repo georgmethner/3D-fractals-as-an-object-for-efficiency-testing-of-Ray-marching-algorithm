@@ -11,8 +11,4 @@ Despite the unfortunate corruption of the project files, snapshots showcasing th
 ![Result Image 2](https://user-images.githubusercontent.com/60361169/225112041-fe0d435b-148e-4a14-86b5-56bc5cb0aa47.png)
 ![Result Image 3](https://user-images.githubusercontent.com/60361169/225112058-bf6a6f1a-cc95-4e10-a53c-433d8a719520.png)
 
-For further details, refer to the academic paper linked above. Contributions and insights are welcome.
-
----
-
-**Note:** Due to file corruption, the full project files are not available, but the provided academic paper and supplementary materials offer a glimpse into the undertaken exploration.
+For further details, refer to the academic paper linked above.
