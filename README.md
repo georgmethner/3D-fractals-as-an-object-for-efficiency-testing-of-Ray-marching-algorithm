@@ -1,6 +1,6 @@
 # 3D Fractals: An Object for Efficiency Testing of the Ray Marching Algorithm (School Paper)
 
-Greetings! This repository houses my 11th-grade school project, an exploration into the realm of 3D fractals as a subject for evaluating the efficiency of the Ray Marching algorithm. Regrettably, the project files have encountered some corruption issues, but I've managed to salvage remnants and the accompanying academic paper, available [here](https://docs.google.com/document/d/1x9xGHNO5_mVNJu9sBTJJw5eU8aziU-uInwm71qki0t8/edit?usp=sharing) (in German).
+Greetings! This repository houses my 11th-grade school project, an exploration into the realm of 3D fractals as a subject for evaluating the efficiency of the Ray Marching algorithm. Sadly, the project files have encountered some corruption issues, although the academic paper can be found [here](https://docs.google.com/document/d/1x9xGHNO5_mVNJu9sBTJJw5eU8aziU-uInwm71qki0t8/edit?usp=sharing) (in German).
 
 In essence, the project focused on the rendering and coloring of fractals. A visual representation of the fractal journey can be found in [this video](https://www.youtube.com/watch?v=_z6kKDV9kBI&t=76s). The paper systematically presented and compared two distinct rendering techniques: classic raymarching and the DDA algorithm, which is normally used for voxel rendering.
 
