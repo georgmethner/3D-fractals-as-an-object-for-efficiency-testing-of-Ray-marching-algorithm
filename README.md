@@ -1,4 +1,4 @@
-# 3D Fractals: An Object for Efficiency Testing of the Ray Marching Algorithm (School Paper)
+# 3D-fractals-as-an-object-for-efficiency-testing-of-Ray-marching-algorithm
 
 Greetings! This repository houses my 11th-grade school project, an exploration into the realm of 3D fractals as a subject for evaluating the efficiency of the Ray Marching algorithm. Sadly, the project files have encountered some corruption issues, although the academic paper can be found [here](https://docs.google.com/document/d/1x9xGHNO5_mVNJu9sBTJJw5eU8aziU-uInwm71qki0t8/edit?usp=sharing) (in German).
 
