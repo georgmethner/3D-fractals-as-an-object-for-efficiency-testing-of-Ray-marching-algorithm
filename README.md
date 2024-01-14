@@ -1,10 +1,17 @@
-# 3D fractals as an object for efficiency testing of Ray-marching algorithm (school paper) (corrupted)
-My project for the school paper I had to write in 11th grade. 
-It is availible right [HERE](https://docs.google.com/document/d/1x9xGHNO5_mVNJu9sBTJJw5eU8aziU-uInwm71qki0t8/edit?usp=sharing), it is in german though.
-Sadly the project files are corrupted, but at least these are the last remains.
-The project was about rendering and coloring fractals. There is also a video of me exploring the fractal [HERE](https://www.youtube.com/watch?v=_z6kKDV9kBI&t=76s). It described two different rendering techniques and compared both of them.
-The two rendering techniques were classic raymarching and the dda-algorithm (usually used to render voxels)
-Here are some pictures of the results:
-![image25](https://user-images.githubusercontent.com/60361169/225111892-279180c4-0bfd-439d-98a9-3f9c8e9bc9a7.png)
-![50,23934](https://user-images.githubusercontent.com/60361169/225112041-fe0d435b-148e-4a14-86b5-56bc5cb0aa47.png)
-![112,7043](https://user-images.githubusercontent.com/60361169/225112058-bf6a6f1a-cc95-4e10-a53c-433d8a719520.png)
+# 3D Fractals: An Object for Efficiency Testing of the Ray Marching Algorithm (School Paper)
+
+This repository encapsulates my 11th-grade school paper, which delves into the exploration of 3D fractals as a foundational element for evaluating the efficiency of the Ray Marching algorithm. Unfortunately, the project files are no longer accessible due to corruption; however, remnants of the project, along with the academic paper, are available [here](https://docs.google.com/document/d/1x9xGHNO5_mVNJu9sBTJJw5eU8aziU-uInwm71qki0t8/edit?usp=sharing) (in German).
+
+In essence, the project centered around the rendering and coloring of fractals. A visual exploration of the fractal can be witnessed in [this video](https://www.youtube.com/watch?v=_z6kKDV9kBI&t=76s). The paper systematically presented and compared two distinct rendering techniques: classic raymarching and the DDA algorithm, typically employed for rendering voxels.
+
+Despite the regrettable corruption of the project files, accompanying visuals of the achieved results are presented below.
+
+![Result Image 1](https://user-images.githubusercontent.com/60361169/225111892-279180c4-0bfd-439d-98a9-3f9c8e9bc9a7.png)
+![Result Image 2](https://user-images.githubusercontent.com/60361169/225112041-fe0d435b-148e-4a14-86b5-56bc5cb0aa47.png)
+![Result Image 3](https://user-images.githubusercontent.com/60361169/225112058-bf6a6f1a-cc95-4e10-a53c-433d8a719520.png)
+
+For further details, refer to the academic paper linked above. Contributions and insights are welcome.
+
+---
+
+**Note:** Due to file corruption, the full project files are not available, but the provided academic paper and supplementary materials offer a glimpse into the undertaken exploration.
